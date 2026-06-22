@@ -5,6 +5,17 @@
     <title>Login</title>
 </head>
 <body>
-
+    <main class="login">
+        <h1>Вхід</h1>
+        <form action="/auth" method="post">
+            <label>Логін
+                <input type="text" name="username" required>
+            </label>
+            <label>Пароль
+                <input type="password" name="password" required>
+            </label>
+            <button type="submit">Увійти</button>
+        </form>
+    </main>
 </body>
 </html>
