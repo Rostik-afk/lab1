@@ -1,3 +1,4 @@
 body {
-    background: blue;
+/* Conflict resolved by combining both: blue (main) + black (feature/dark) */
+    background: linear-gradient(135deg, blue, black);
 }
