@@ -1,0 +1,14 @@
+*   057eb87 (HEAD -> main, origin/main) Merge feature/dark into main: resolve conflict, combine blue+black as gradient
+|\  
+| * 8e6196a (feature/dark) Change background to black (dark theme)
+* | ef8bea7 Change background to blue
+|/  
+* dc0c93f Add style.css with white background
+| * e22aa68 (origin/dev, dev) Merge feature/login-form into dev
+|/| 
+| * edf7b04 Style login form with basic CSS
+| * 77e03f9 Add login form: username and password fields
+| * 41098be Add login page skeleton
+|/  
+* b348e85 Update index.html: add lab description
+* 345ad05 Initial commit: add index.html

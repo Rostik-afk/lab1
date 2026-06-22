@@ -1,0 +1,36 @@
+commit 057eb87d250c417dd43e376f69a7edca21169d8f
+Merge: ef8bea7 8e6196a
+Author: Бойчук Ростислав <022320@university.kherson.ua>
+Date:   Mon Jun 22 16:56:12 2026 +0300
+
+    Merge feature/dark into main: resolve conflict, combine blue+black as gradient
+
+commit ef8bea7b8e9bda31245b3af71d95ff489fe7d4a8
+Author: Бойчук Ростислав <022320@university.kherson.ua>
+Date:   Mon Jun 22 16:54:31 2026 +0300
+
+    Change background to blue
+
+commit 8e6196ae51df7a14243f9e0f51c7e6926c6e5f4c
+Author: Бойчук Ростислав <022320@university.kherson.ua>
+Date:   Mon Jun 22 16:54:00 2026 +0300
+
+    Change background to black (dark theme)
+
+commit dc0c93f9506f9999962aedb6dbf9a3190651e1f5
+Author: Бойчук Ростислав <022320@university.kherson.ua>
+Date:   Mon Jun 22 16:53:33 2026 +0300
+
+    Add style.css with white background
+
+commit b348e85038226401908fb2a2f4f7b93c6712ca38
+Author: Бойчук Ростислав <022320@university.kherson.ua>
+Date:   Mon Jun 22 16:16:18 2026 +0300
+
+    Update index.html: add lab description
+
+commit 345ad0527b94ccab5d06a28f8f5573614527bb87
+Author: Бойчук Ростислав <022320@university.kherson.ua>
+Date:   Mon Jun 22 16:15:55 2026 +0300
+
+    Initial commit: add index.html
